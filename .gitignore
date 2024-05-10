@@ -1,1 +1,4 @@
 resurrect-dir
+plugins/*
+
+!.keep
